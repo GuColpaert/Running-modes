@@ -1,0 +1,7 @@
+<settings>
+    <property key="api.endpoint" value="https://api.example.com"/>
+    <property key="api.timeout" value="5000"/>
+    <property key="logging.level" value="DEBUG"/>
+    <property key="feature.toggle" value="true"/>
+    <property key="feature.experimental" value="false"/>
+</settings>
