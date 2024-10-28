@@ -1,7 +1,7 @@
 <applicationConfig>
     <property key="app.title" value="MyApplication"/>
     <property key="app.language" value="en"/>
-    <property key="app.version" value="1.2.3"/>
+    <property key="app.version" value="1.0.0"/>
     <property key="user.role" value="guest"/>
     <property key="user.active" value="true"/>
 </applicationConfig>
